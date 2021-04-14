@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProductListDemo</string>
+    <string name="select_lang">Select Language</string>
+    <string name="selected_language">Selected item:</string>
+    <string-array name="Languages">
+        <item>English</item>
+        <item>Hindi</item>
+    </string-array>
+</resources>
